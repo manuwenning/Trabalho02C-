@@ -1,0 +1,13 @@
+C:\Users\Emanuela\Desktop\Programação\C#\Trabalho\Trabalho 02 - Emanuela\Trabalho 02 - Emanuela\Trabalho 02 - Emanuela\obj\Debug\netcoreapp3.1\Trabalho 02 - Emanuela.csprojAssemblyReference.cache
+C:\Users\Emanuela\Desktop\Programação\C#\Trabalho\Trabalho 02 - Emanuela\Trabalho 02 - Emanuela\Trabalho 02 - Emanuela\obj\Debug\netcoreapp3.1\Trabalho 02 - Emanuela.AssemblyInfoInputs.cache
+C:\Users\Emanuela\Desktop\Programação\C#\Trabalho\Trabalho 02 - Emanuela\Trabalho 02 - Emanuela\Trabalho 02 - Emanuela\obj\Debug\netcoreapp3.1\Trabalho 02 - Emanuela.AssemblyInfo.cs
+C:\Users\Emanuela\Desktop\Programação\C#\Trabalho\Trabalho 02 - Emanuela\Trabalho 02 - Emanuela\Trabalho 02 - Emanuela\obj\Debug\netcoreapp3.1\Trabalho 02 - Emanuela.csproj.CoreCompileInputs.cache
+C:\Users\Emanuela\Desktop\Programação\C#\Trabalho\Trabalho 02 - Emanuela\Trabalho 02 - Emanuela\Trabalho 02 - Emanuela\bin\Debug\netcoreapp3.1\Trabalho 02 - Emanuela.exe
+C:\Users\Emanuela\Desktop\Programação\C#\Trabalho\Trabalho 02 - Emanuela\Trabalho 02 - Emanuela\Trabalho 02 - Emanuela\bin\Debug\netcoreapp3.1\Trabalho 02 - Emanuela.deps.json
+C:\Users\Emanuela\Desktop\Programação\C#\Trabalho\Trabalho 02 - Emanuela\Trabalho 02 - Emanuela\Trabalho 02 - Emanuela\bin\Debug\netcoreapp3.1\Trabalho 02 - Emanuela.runtimeconfig.json
+C:\Users\Emanuela\Desktop\Programação\C#\Trabalho\Trabalho 02 - Emanuela\Trabalho 02 - Emanuela\Trabalho 02 - Emanuela\bin\Debug\netcoreapp3.1\Trabalho 02 - Emanuela.runtimeconfig.dev.json
+C:\Users\Emanuela\Desktop\Programação\C#\Trabalho\Trabalho 02 - Emanuela\Trabalho 02 - Emanuela\Trabalho 02 - Emanuela\bin\Debug\netcoreapp3.1\Trabalho 02 - Emanuela.dll
+C:\Users\Emanuela\Desktop\Programação\C#\Trabalho\Trabalho 02 - Emanuela\Trabalho 02 - Emanuela\Trabalho 02 - Emanuela\bin\Debug\netcoreapp3.1\Trabalho 02 - Emanuela.pdb
+C:\Users\Emanuela\Desktop\Programação\C#\Trabalho\Trabalho 02 - Emanuela\Trabalho 02 - Emanuela\Trabalho 02 - Emanuela\obj\Debug\netcoreapp3.1\Trabalho 02 - Emanuela.dll
+C:\Users\Emanuela\Desktop\Programação\C#\Trabalho\Trabalho 02 - Emanuela\Trabalho 02 - Emanuela\Trabalho 02 - Emanuela\obj\Debug\netcoreapp3.1\Trabalho 02 - Emanuela.pdb
+C:\Users\Emanuela\Desktop\Programação\C#\Trabalho\Trabalho 02 - Emanuela\Trabalho 02 - Emanuela\Trabalho 02 - Emanuela\obj\Debug\netcoreapp3.1\Trabalho 02 - Emanuela.genruntimeconfig.cache
